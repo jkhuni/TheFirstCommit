@@ -1,2 +1,2 @@
-email :
-gitID :
+email : gnsdl109@naver.com
+gitID : jkhuni
